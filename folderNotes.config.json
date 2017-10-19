@@ -1,4 +1,7 @@
 {
-    "lib": "main source code",
+    "lib": [
+        "main source code",
+        "second note"
+    ],
     "node_modules": "js for the dependencies"
 }
