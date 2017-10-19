@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle folder-notes",
+        "command": "folder-notes:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "folder-notes",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "folder-notes:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

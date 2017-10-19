@@ -1,0 +1,4 @@
+{
+    "lib": "main source code",
+    "node_modules": "js for the dependencies"
+}
