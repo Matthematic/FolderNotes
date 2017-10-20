@@ -3,5 +3,6 @@
         "main source code",
         "second note"
     ],
+    "lib/folder-notes-view.js": "test note",
     "node_modules": "js for the dependencies"
 }
