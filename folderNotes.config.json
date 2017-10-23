@@ -1,4 +1,12 @@
 {
+    "name": "FolderNotes",
+    "private": true,
+    "version": "0.0.0",
+    "description": "Node module to support the rails engine my_component_engine",
+    "repository": {
+    "type": "git",
+    "url": "{UPDATE WITH URL}"
+    },
     "lib": [
         "main source code",
         "second note"

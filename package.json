@@ -2,12 +2,12 @@
   "name": "folder-notes",
   "main": "./lib/folder-notes",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Lets you put notes on the file tree",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "folder-notes:toggle"
   },
-  "repository": "https://github.com/atom/folder-notes",
+  "repository": "https://github.com/Matthew-Carr/FolderNotes.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
