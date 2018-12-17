@@ -1,7 +1,7 @@
 {
   "name": "folder-notes",
   "main": "./lib/folder-notes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lets you put notes on the file tree",
   "keywords": [],
   "activationCommands": {
