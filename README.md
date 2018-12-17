@@ -1,6 +1,7 @@
 # folder-notes package
 
 Lets you put notes on the file tree
+![](folder-notes-example.gif)
 
 Instructions:
 1. After installation, create a file named "folderNotes.config.json" in your folder path.
