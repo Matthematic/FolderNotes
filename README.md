@@ -3,14 +3,16 @@
 Lets you put notes on the file tree
 ![](folder-notes-example.gif)
 
-Instructions:
+## Instructions:
 1. After installation, create a file named "folderNotes.config.json" in your folder path.
 2. Add a json object to this file containing relative paths and the notes you desire. Example"
 ```
 {
+  "notes": {
     "lib": "COMPILED SOURCE DONT TOUCH",
     "app": "should be named src",
     "client": "stuff"
+  }
 }
 ```
 3. Reload your atom window (Ctrl+Shift+F5) 
@@ -18,18 +20,8 @@ Instructions:
 5. Enjoy!
 
 
-Additional info:
-For unix systems, any nested folder paths need only use a '/' while windows systems needs to use escaped backslashes. 
-Unix example:
-```
-{
-    "folder1/folder2/folder3": "This is a folder note on windows
-}
-```
+Additional config options:
 
-Windows example:
-```
-{
-    "folder1\\folder2\\folder3": "This is a folder note on windows
-}
-```
+| Option        | description           | default  |
+| ------------- |:-------------:| -----:|
+| color      | the color of the notes | yellow |
