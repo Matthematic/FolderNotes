@@ -1,14 +1,14 @@
 {
-  "name": "folder-notes",
-  "main": "./lib/folder-notes",
+  "name": "folder-notes-enhanced",
+  "main": "./lib/folder-notes-enhanced",
   "version": "1.0.0",
-  "description": "Lets you put notes on the file tree",
+  "description": "Fork of https://github.com/Matthew-Carr/FolderNotes.git",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "folder-notes:toggle"
+    "atom-workspace": "folder-notes-enhanced:toggle"
   },
-  "repository": "https://github.com/Matthew-Carr/FolderNotes.git",
-  "license": "MIT",
+  "repository": "",
+  "license": "GPLv3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
