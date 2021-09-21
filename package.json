@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "folder-notes-enhanced:toggle"
   },
-  "repository": "",
+  "repository": "https://github.com/DumberThanUsual/FolderNotesEnhanced",
   "license": "GPLv3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
