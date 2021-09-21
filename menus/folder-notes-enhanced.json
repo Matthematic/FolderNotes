@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle folder-notes",
-        "command": "folder-notes:toggle"
+        "command": "folder-notes-enhanced:toggle"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "folder-notes:toggle"
+              "command": "folder-notes-enhanced:toggle"
             }
           ]
         }
