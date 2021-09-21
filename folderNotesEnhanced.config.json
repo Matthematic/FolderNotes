@@ -6,7 +6,7 @@
           "Something else",
           "Blah blahhhh"
       ],
-      "lib/folder-notes.js": "<-- Engine entry point",
+      "lib/folder-notes-enhanced.js": "<-- Engine entry point",
       ".git": "git metadata",
       "spec": "test files",
       "styles": "stylesheets",
