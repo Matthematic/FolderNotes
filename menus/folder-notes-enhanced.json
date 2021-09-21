@@ -5,6 +5,16 @@
         "label": "Toggle folder-notes",
         "command": "folder-notes-enhanced:toggle"
       }
+    ],
+    ".directory": [
+      {
+        "label": "Toggle folder-notes",
+        "command": "folder-notes-enhanced:toggle"
+      },
+      {
+        "label": "Edit folder labels",
+        "command": "folder-notes-enhanced:edit"
+      }
     ]
   },
   "menu": [
