@@ -1,4 +1,6 @@
-# folder-notes package
+# folder-notes-enhanced package
+
+Fork of https://github.com/Matthew-Carr/FolderNotes.git with added features
 
 Lets you put notes on the file tree
 ![](folder-notes-example.gif)
