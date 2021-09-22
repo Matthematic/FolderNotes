@@ -24,7 +24,7 @@ Lets you put notes on the file tree
 ## Additional features from original:
 - Multi-project support
 
-Additional config options:
+## Additional config options:
 
 | Option        | description           | default  |
 | ------------- |:-------------:| -----:|
