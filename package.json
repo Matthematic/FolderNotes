@@ -3,6 +3,7 @@
   "main": "./lib/folder-notes-enhanced",
   "version": "1.0.0",
   "description": "Fork of https://github.com/Matthew-Carr/FolderNotes.git",
+  "activationHooks": ["core:loaded-shell-environment"],
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "folder-notes-enhanced:toggle"
