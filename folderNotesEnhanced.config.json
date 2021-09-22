@@ -2,9 +2,7 @@
   "color": "lightray",
   "notes": {
       "lib": [
-          "Main source code",
-          "Something else",
-          "Blah blahhhh"
+          "Main source code"
       ],
       "lib/folder-notes-enhanced.js": "<-- Engine entry point",
       ".git": "git metadata",
