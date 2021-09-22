@@ -21,6 +21,8 @@ Lets you put notes on the file tree
 4. Toggle FolderNotes on or off through the packages->folder-notes menu option or through the right-click menu
 5. Enjoy!
 
+## Additional features from original:
+- Multi-project support
 
 Additional config options:
 
