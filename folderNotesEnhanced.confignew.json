@@ -1,0 +1,17 @@
+{
+  "color": "lightray",
+  "notes": [
+    "HI THERE"
+  ],
+  "subElements": {
+    "lib": {
+      "color": "lightray",
+      "notes": [
+        "main source code"
+      ],
+      "subElements": {
+
+      }
+    }
+  }
+}
